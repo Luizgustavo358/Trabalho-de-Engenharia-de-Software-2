@@ -3,11 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/InicioGUI.java</file>
-            <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/ExibirContasClienteGUI.java</file>
+            <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/dao/ClienteDAO.java</file>
             <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/ContaGUI.java</file>
-            <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/AnaliseGUI.java</file>
-            <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/ClienteGUI.java</file>
             <file>file:/home/luiz/Área%20de%20Trabalho/eng2-master/MinhaAplicacao/src/gui/ExibirContasGUI.java</file>
         </group>
     </open-files>
