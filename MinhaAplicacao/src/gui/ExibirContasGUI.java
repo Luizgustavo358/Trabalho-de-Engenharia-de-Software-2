@@ -177,7 +177,7 @@ public class ExibirContasGUI extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(180, 180, 180)
                         .addComponent(jButton2)))
-                .addContainerGap(19, Short.MAX_VALUE))
+                .addContainerGap(21, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -190,7 +190,7 @@ public class ExibirContasGUI extends javax.swing.JFrame {
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(30, 30, 30)
                 .addComponent(jButton2)
-                .addContainerGap(28, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
@@ -217,11 +217,13 @@ public class ExibirContasGUI extends javax.swing.JFrame {
         Connection con = new ConnectionFactory().getConnection();
         String itemText = (String)jComboBox1.getSelectedItem( );
         String tipoconta = "-1";
+        
         if(itemText=="Energia"){
             tipoconta="e";
         }else if(itemText=="Água"){
             tipoconta="a";
         }
+        
         if(tipoconta=="-1"){
             JOptionPane.showMessageDialog(null, "Favor selecionar um Tipo de Conta");
         }else{
