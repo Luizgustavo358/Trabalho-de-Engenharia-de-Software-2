@@ -7,6 +7,7 @@ public class Cliente {
     public Cliente(){
         
     }
+    
     public String getTipcli() {
         return String.valueOf(tipcli);
     }
