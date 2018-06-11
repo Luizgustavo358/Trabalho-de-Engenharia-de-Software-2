@@ -18,6 +18,6 @@ Trabalho de cadastramento de pessoa física ou jurídica, para contas de Energia
 ### Grupo:
 - Gustavo Fonseca
 - Lucas Ciccuti
-- Luiz Gustavo
+- [Luiz Gustavo](https://github.com/Luizgustavo358)
 - Octávio
-- Pedro Prosdocimi
+- [Pedro Prosdocimi](https://github.com/pedroprosdocimi)
