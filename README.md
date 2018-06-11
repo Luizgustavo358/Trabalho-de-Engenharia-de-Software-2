@@ -1,7 +1,9 @@
 # Trabalho de Engenharia de Software 2
 
 ### Sobre o Trabalho:
-Trabalho de cadastramento de pessoa física ou jurídica 
+Trabalho de cadastramento de pessoa física ou jurídica, para contas de Energia e Água.
+
+[Link do arquivo executável](MinhaAplicacao/dist)
 
 ### Feito em:
 - [NetBeans](https://netbeans.org/)
