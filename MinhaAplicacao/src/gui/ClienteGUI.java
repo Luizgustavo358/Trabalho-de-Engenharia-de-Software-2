@@ -199,7 +199,6 @@ public class ClienteGUI extends javax.swing.JFrame {
             // instanciando a classe UsuarioDAO do pacote dao e criando seu objeto dao
             ClienteDAO dao = new ClienteDAO();
             dao.adiciona(clientes);
-            JOptionPane.showMessageDialog(null, "Cliente "+jTextField2.getText()+" inserido com sucesso! ");
         }
 
         // apaga os dados preenchidos nos campos de texto
